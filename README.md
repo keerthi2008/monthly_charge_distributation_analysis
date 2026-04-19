@@ -1,7 +1,5 @@
 # monthly_charge_distributation_analysis
 
-# 📊 Customer Churn Analysis (Excel Project)
-
 ## 📌 Project Overview
 
 This project focuses on analyzing customer churn data to understand why customers leave a telecom service. Using Excel, we explore patterns, trends, and key factors that influence churn, and provide actionable insights to improve customer retention.
